@@ -22,11 +22,14 @@ dependencies:
   http: ^0.12.0+2
   # Local cache
   shared_preferences: ^0.5.3+4
+  json_annotation:
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   mockito: ^4.1.0
+  build_runner:
+  json_serializable:
 
 flutter:
   uses-material-design: true
